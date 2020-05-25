@@ -1,0 +1,22 @@
+.box1 {
+  height: 100vh;
+  background-color: #f27979;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box2 {
+  height: 100vh;
+  width: 100%;
+  background-color: #403131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+}
+
+a {
+  color: whitesmoke;
+  font-size: 38px;
+}

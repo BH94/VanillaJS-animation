@@ -14,4 +14,4 @@ Auto Scroll 기능으로, fullPage.js에서 제공하는 기능과 흡사합니�
 #### ➡ Login Form
 
 기능이 없는 간단한 로그인 페이지입니다. svg 출처: undraw.co
-![Smooth Scroll](https://github.com/BH94/VanillaJS-animation/blob/master/loginForm/loginForm.png)
+![Smooth Scroll](<https://github.com/BH94/VanillaJS-animation/blob/master/loginForm/loginForm(hover).png>)

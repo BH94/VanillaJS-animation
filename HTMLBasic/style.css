@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.clear {
+  clear: both;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+h2 {
+  font-size: 3.6rem;
+  padding: 5rem 0;
+}
+
+h3 {
+  font-size: 2.8rem;
+}
+
+button {
+  font-size: 2.5rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 2.4rem;
+}
+
+nav {
+  background-color: #cc527a;
+  color: white;
+  padding: 3rem;
+}
+
+nav h1 {
+  float: left;
+}
+
+nav ul {
+  float: right;
+  list-style: none;
+}
+
+nav li {
+  float: left;
+  margin: 0 4rem;
+}
+
+.hero-section {
+  background-image: url("./table-on-wooden-plank-326279.jpg");
+  height: 90rem;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px 3px #363636;
+  padding-top: 15rem;
+}
+
+.hero-section button {
+  padding: 3rem 6rem;
+  background: none;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  margin-top: 18rem;
+  border: 5px solid #cc527a;
+  cursor: pointer;
+}
+
+.hero-section button:hover {
+  background: #cc527a;
+}
+
+.form-section {
+  text-align: center;
+  background: #474747;
+  color: #cc527a;
+}
+
+form {
+}
+
+form input,
+form label,
+form textarea {
+  display: block;
+  font-size: 2.6rem;
+}
+
+form input,
+form textarea {
+  margin: 2rem auto;
+  width: 50%;
+  border-radius: 5px;
+}
+
+form button {
+  margin-bottom: 10rem;
+  padding: 2rem 4rem;
+  background: #cc527a;
+  border-radius: 5px;
+  color: white;
+  border: none;
+
+  /* border: 5px solid #cc527a; */
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #e8175d;
+  color: white;
+}
